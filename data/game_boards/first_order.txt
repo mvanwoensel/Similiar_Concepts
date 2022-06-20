@@ -1,0 +1,251 @@
+advertisement	|product|magazine|commercial|mail
+air	|space|water|ground|sky|stuff|gas|earth|fire
+airplanes	|airplane
+alcohol	|wine|drink|beer
+anger	|anguish|anxiety|pain|frustration
+arkansas	
+audience	|crowd|show|auditorium|stage|concert|theater|movie
+auditorium	|audience|theater|concert|stage|chairs|college|arena|stadium
+automobile	|car|driveway|freeway
+ball	|play|game
+bar	|club|restaurant|beer|wine|party|table
+bbq	|backyard
+beautiful	|beauty|bad
+beaver	
+bed	|bedroom|room|couch|floor|sleep|house|table|chair
+bee	|outside|fly
+beer	|drinking|alcohol|can|liquid|bottle|wine|bar
+bicycle	
+bird	|nest|sky|airplane|fly|wings|plane|chicken|fish
+birds	|bird
+blanket	|bed
+blood	|injury|body|water|heart|bone
+boat	|sea|ocean|ship|bay|river|car|lake
+bone	|mouth|skin|body|arm|blood
+book	|library|dictionary|paper|magazine|article|newspaper|table|bed
+books	|book|shelf
+bowl	|food|container|plate|plates|glass|cabinet
+box	|paper|case|ball
+boxes	|basement|cellar
+bread	|food|product
+bubblegum	|sweetness
+building	|city|skyscraper|house
+bungalow	|cottage|suburbs|house
+bus	|road|car|street
+candy	|movie
+carpet	|floor|rug|bathroom
+carrots	|salad
+cat	|mouse|dog|table|floor
+ceiling	|roof
+celebrating	|party|joy|happiness|drinking|kissing
+chair	|room|table|couch|floor|desk|bench|wood
+chairs	|meeting
+change	|wallet|money|exchange|body|motion|cooking|communication|competition
+channel	
+cheese	|food|pizza|refrigerator
+chicken	|food|soup|plate|bird|cow|nest|farm
+chocolate	|food|candy|sugar
+churchyard	|village
+city	|state|village|country|town|farm
+climbing	|strength|exercise|exercising
+clock	|shelf|time|table|desk
+closet	|room|cabinet|house|toilet
+clothes	|stuff|clothing|closet|dresser
+clothing	|clothes|shoes
+colorado	|texas|california|town
+communicating	|talking|talk|understanding|learning|knowledge
+competing	|competition|defeat
+computer	|communication|table|act
+condiments	|container
+confusion	|understanding
+connection	|wires
+container	|cupboard|pantry|cabinet
+contemplating	|thinking|mind|understanding|reflection|intelligence
+continent	|country|place|region|earth|ocean|island|sea
+cottage	|house|village
+country	|continent|region|place|state|city|town|rock
+court	|park|place|field|office
+cow	|farm|ranch|barn|horse
+creek	|stream
+cup	|glass|cabinet|dishwasher|plates
+dancing	|motion|dance|performing|entertainment
+darkness	
+death	|sadness|morgue|die|funeral
+dictionary	|books|library|book|encyclopedia
+dirt	|ground|dust|floor|carpet|rug
+dishes	|pantry
+dog	|horse|human|fox|cat|home|table
+door	|wall|room|home|window|house|gate|office
+doorway	|door|gate
+drink	|water|food|can|liquid|bar|beer|glass
+driveway	|suburb
+drugs	
+dust	|dirt|floor|rug|carpet
+earth	|heaven|world|home|sky|ground|sun|sea|space
+electricity	|energy|current|shock
+elevator	
+employees	|meeting
+entertaining	|fun|laughter|boredom|happiness|laugh
+excavation	
+exercising	|fatigue|exhaustion|exercise|run
+families	
+ficus	|dirt
+film	|movie|cinema
+fish	|food|water|sea|ocean|bird|boat|river|lake
+flat	
+fleas	|carpet|rug
+floor	|room|basement|ground|foot|carpet|rug|bed|wall
+flower	|garden|beauty|color|plants
+flowers	|flower|plants
+food	|jar|can|bread|plate|dinner|soup
+foot	|sock|shoe|body|arm|ground|floor|head|chair
+fox	|forest|dog
+freeway	|highway|road
+frisbee	
+furniture	
+garbage	|trash
+gentleman	|suit
+getting	|joy
+glass	|window|door|wood|plate|liquid|cup|bottle|water
+glasses	
+god	|heaven|body|church|universe
+government	|country|state|control|act|communication
+grape	|food|market|wine|fruit
+groceries	
+grooming	|beauty
+ground	|floor|garden|foot|sky|earth|field|grass|dirt
+hairbrush	|bedroom|bathroom
+happiness	|pleasure|joy|satisfaction|laughter
+horse	|country|field|dog|farm|ranch|cow|run
+house	|city|street|place|building|home|apartment|door
+human	|country|home|body|war|city|chair|bathroom
+humans	|laugh|die
+illness	|stomach
+information	|newspaper|knowledge|internet
+isle	|sea|ocean|island|lake
+jellyfish	|ocean|jungle
+junk	
+key	|door
+kissing	|sex|love|pleasure|fun|remembering
+knowledge	|information|learning|understanding|education|intelligence|university
+lamp	|light|rooms|bedroom|shelf|furniture
+lasagna	
+learning	|knowledge|thinking|information|remembering
+leaves	|plants
+lemonade	|carnival
+lemur	
+library	|school|college|warehouse
+light	|lamp|sunshine|sun
+lights	
+liquid	|drink|water|jar|bottle|gas|glass
+listening	|learning|understanding|communicating
+living	|sadness|death|dead|happiness|die
+lizard	|snake
+machine	|factory|work|computer
+magazine	|library|book|newspaper
+magazines	
+map	
+market	|place|store|shop|street|product
+marmoset	
+marmot	
+mess	
+money	|wallet|exchange|shop|bank|work|change|debt
+moss	|trees|grass|forest
+mountain	|earth|sky|ground|rock|tree
+mouse	|cat|computer
+music	|noise|play|communication|song|singing|act|band|dance
+musician	|music|symphony|orchestra|band
+nails	|container|jar
+newspaper	|article|magazine
+noise	|place|crowd|voice|music|silence
+notebook	|computer|desktop
+notes	
+office	|place|house|desk|room|property|company
+onions	
+paint	|wood|painting|color|picture|soup
+pan	|kitchen|oven|pot|container
+paper	|pen|book|newspaper|wood
+papers	
+paperwork	|meeting
+passageway	
+peanuts	|jar
+pebble	|pond|creek
+pen	|paper
+pencils	
+people	|humans|crowd|person|human|body|dance|animals
+performing	|act|entertaining|singing|anxiety
+person	|dog|company|people|body|human|humans|time|energy
+picture	|paper|film|movie|color|painting|wall
+pie	|food|fruit|refrigerator|oven
+pizza	|food|pie|oven
+plane	|airport|fly|aircraft|wings
+plants	
+plate	|paper|table|food|bowl|spoon|glass|soup
+plates	|cabinet
+playing	|game|fun|play|learning
+poet	|pen|speaker|song
+pond	|lake
+pot	|drawer|plants
+potatoes	
+president	|office|state|head|country|government
+prison	|jail
+product	|store|market|answer
+program	|show|concert|instruction
+radio	|communication|television
+rain	|weather|water|liquid|fall|shower|snow|sky|summer
+refrigerator	|kitchen|cold
+regret	|like|pain|sorrow|satisfaction|joy
+remembering	|knowledge|learning|pleasure|thinking
+restaurant	|dinner|hotel|table
+river	|water|current|sea|stream|continent|ocean|road|pond
+road	|highway|bridge|street|country|car|ground|freeway
+roadway	|road|countryside
+rock	|ground|earth|dirt|mountain
+room	|house|home|place|apartment|closet|floor|door|bed
+rosebush	|lawn
+rug	|floor|carpet|blanket|bedroom
+seats	|movies|movie|show|opera
+security	|property
+sex	|fun
+shelf	|cabinet|closet|bathroom
+shoes	|shoe|clothing
+silverware	|kitchen
+skeleton	
+skin	|body
+sleeping	|snore|dream|relaxation
+sloth	|america
+snake	|creek
+snow	|weather|cold|summer|ground|liquid|rain|fire|water
+soup	|can|food|drink|liquid|bread|salad|chicken
+space	|place|earth|air|room|sky|moon
+speaker	|shelf
+squirrel	|garden|street|tree|cat|mouse
+staircase	|stairwell
+stamps	
+steakhouse	|restaurant
+stick	|wood|tree|ground|ball
+storage	|warehouse|store
+stream	|creek|river|wilderness|forest
+student	|learning|school|classroom|teacher|class|university|college|desk
+stuff	|container|shoes
+sugar	|food|fruit|snow
+sunshine	|light|darkness|sun|sky|summer|moon
+table	|couch|room|chair|floor|house|desk
+talking	|talk|communication|voice
+telephone	|talk|communication|friends
+television	
+temple	|jerusalem|church
+toilet	|sink|bathroom|shower|bathtub
+town	|country|village|city|house
+trees	|tree
+trunk	|closet|attic|automobile
+utensils	
+vacuum	|dirt
+vase	
+voice	|mouth|talk|singing|talking|communicating|silence|noise|song
+water	|can|liquid|earth|blood|drink|rain|air|toilet
+window	|house|glass|room|door|wall
+wine	|drink|bottle|glass|drinking|alcohol|liquid|water|beer
+wings	|fly|bird|airplane|plane|butterflies|airport
+wood	|paper|stick|tree|table|floor
+yard	|lawn|grass|garden

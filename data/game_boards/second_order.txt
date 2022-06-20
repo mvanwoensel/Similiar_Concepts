@@ -1,0 +1,251 @@
+advertisement	
+air	|sky|space|ground|earth|rock|sun|fire
+airplanes	|plane|clouds
+alcohol	|bottle
+anger	|panic|violence
+arkansas	|florida|minnesota
+audience	|band|concert|movie
+auditorium	|audience|show|theater|musical|library
+automobile	|cars|store|highway|freeway
+ball	|court|playing|game|stage|club|trouble|balloon
+bar	|club|house|office|market|stage|party|celebrating|country
+bbq	
+beautiful	|good
+beaver	|pond|sweat
+bed	|television
+bee	|animals|garden|bird|tree|barn|cow|mouse|fox
+beer	|bottle
+bicycle	|cars|automobile|highway
+bird	|ground|birds|nest|bee|chicken|squirrel
+birds	|bird|plane
+blanket	|clothes
+blood	|body
+boat	|ship|aircraft|airplane
+bone	|skin|army
+book	|books|paper|magazine|desk|floor|carpet
+books	|library|book|shelf|dictionary|magazines|magazine
+bowl	|plate|cup|plates|pizza
+box	|paper|case|book|wood|stick
+boxes	
+bread	|food|soup|plate|fish|desert|pie
+bubblegum	
+building	|skyscraper|court|apartment|chairs
+bungalow	|bedroom
+bus	|sidewalk
+candy	|peanuts|chocolate
+carpet	|shoes|floor|rug|tile|ceiling|bedroom|basement|table
+carrots	|groceries
+cat	|mouse|table|dog|garden|squirrel|carpet|room|shoes
+ceiling	|rooms|furniture|wall|carpet|roof|tile|tent
+celebrating	
+chair	|table|desk|stage|floor|bar|foot|court|carpet
+chairs	|carpet|building|paperwork|employees
+change	|wallet|money
+channel	|valley|asia|russia
+cheese	|fruit|pizza
+chicken	|food|bird|nest|farm|squirrel|field
+chocolate	|candy|container
+churchyard	
+city	|country|village|factory|office|continent
+climbing	
+clock	|plate|table|lamp
+closet	|room|house|motel
+clothes	|blanket
+clothing	|dresser
+colorado	|kentucky|channel
+communicating	|pencils|remembering
+competing	
+computer	
+condiments	
+confusion	|violence
+connection	|shoes
+container	
+contemplating	|think|learning|remembering
+continent	|government|city
+cottage	|palace|barn|attic
+country	|continent|city|house|army|bank
+court	|table|building|region|furniture|auditorium|chair
+cow	|ranch|barn|stable|beaver|mouse
+creek	|stream|swamp
+cup	|liquid|drinking|bottle|glass|lemonade|punch|beer|bowl
+dancing	
+darkness	
+death	|sadness|dead|kill|killing
+dictionary	|books|library|magazine|encyclopedia
+dirt	|ground|rock|shoes|floor|dust|rug|carpet
+dishes	|plates
+dog	|room|cat|horse|earth|heaven|bone|party
+door	|computer
+doorway	|porch|palace
+drink	|closet|continent
+driveway	|roadway|flat|highway|freeway
+drugs	
+dust	|floor|carpet|rug|dirt|space|blanket|book|table
+earth	|house|continent|heaven|city|skin|castle|snow
+electricity	|chapel|current|furniture
+elevator	|stairs
+employees	|workplace
+entertaining	|laughter|playing|happiness
+excavation	
+exercising	
+families	
+ficus	|plants|ground|grass|pond
+film	
+fish	|sea|ocean|soup|stream|bread|lake
+flat	|garage|driveway
+fleas	
+floor	|space|ground|book|rug|carpet|table|desk|shoes
+flower	|flowers|plants|grass
+flowers	|vase|flower|lawn|apples
+food	|plate|fruit|beer|pizza|pie|bread|chicken|soup
+foot	|shoe|floor|chair|run
+fox	|bee|cat|horse
+freeway	|roadway|highway
+frisbee	|playing|ball|leaves|clouds
+furniture	|bedroom|ceiling
+garbage	|trash|sewer
+gentleman	
+getting	|vault
+glass	|rock|tree|water|paint|plate|liquid
+glasses	|beer|peanuts|cage
+god	
+government	|germany
+grape	|food|fruit|cow|ranch|grass
+groceries	
+grooming	
+ground	|floor|basement|garden|air|grass|dirt|plants|rock
+hairbrush	|rooms|flat
+happiness	
+horse	|country|bone|color|city|picture|factory|army
+house	|country|sidewalk|car|bus|office|college|room|hospital
+human	|student|television|doctor
+humans	|people|party|performing|kill
+illness	
+information	|concert
+isle	|bay|swamp
+jellyfish	
+junk	|shoes
+key	|locker|gate
+kissing	|entertaining|laughter
+knowledge	|books|dictionary
+lamp	|candle|book|clock|floor|books|desk|chair|table
+lasagna	
+learning	|knowledge|getting|thinking|listening|communicating
+leaves	
+lemonade	|bottle|drinking
+lemur	|encyclopedia
+library	|books|shelf|apartment|dictionary|property|wallet|magazine
+light	|motion|sunshine|current
+lights	
+liquid	|wine|jar|bottle
+listening	|remembering
+living	|cooking|dead
+lizard	|plants|rock|snake|grass|tree|basement
+machine	|house|factory|car|bus|meeting
+magazine	|magazines|book|library|newspaper|books|dictionary|pen|map
+magazines	|magazine|books
+map	|stuff|magazine
+market	|village|sidewalk|hospital
+marmoset	
+marmot	|forest|dirt|leaves
+mess	
+money	|change|debt
+moss	|leaves
+mountain	|ground|continent|earth|nature|rock|forest|moon
+mouse	|food|cat|bee|field|cow|squirrel|farm|garden
+music	|communication|singing
+musician	
+nails	
+newspaper	|magazine|magazines|book|paper|books
+noise	|country|radio|motion
+notebook	|pen|pencils|shelf
+notes	
+office	|city|house|government|room|company|bank|stage|factory
+onions	
+paint	|floor|fire|glass|sky|table|tree
+pan	|pot
+paper	|desk|book|table|pen|case
+papers	
+paperwork	|employees|workplace
+passageway	|apartment|palace|cellar
+peanuts	
+pebble	
+pen	|notebook|desk|magazine
+pencils	
+people	|human|crowd|heart|music|arm
+performing	
+person	|office|people|dog|drink|party|human|body|bar
+picture	
+pie	|bowl|fruit|pizza|cheese|dinner
+pizza	
+plane	|airplanes|fly|birds
+plants	
+plate	|food|table|bowl|clock|spoon|cut|wood|glass
+plates	
+playing	
+poet	
+pond	|lake|bay|ocean|pool
+pot	
+potatoes	
+president	
+prison	|buildings
+product	|shop|store|groceries|exchange
+program	|demonstration
+radio	|garage
+rain	|weather|snow|sky
+refrigerator	|kitchen|oven
+regret	|fear|grief
+remembering	|learning
+restaurant	|store|dinner|cafe|hotel
+river	|water|ocean|pond|sea|continent|bay|lake|island
+road	|river|street|roadway|bridge|highway|car
+roadway	|highway|freeway
+rock	|ground|dirt|sea|tree|glass|lizard|air
+room	|house|castle|clothes|blanket|closet
+rosebush	
+rug	|carpet|floor|ceiling|book|bedroom|shoes
+seats	
+security	
+sex	
+shelf	|library|books
+shoes	|floor|dirt|rug|carpet|books
+silverware	|spoon|plates
+skeleton	
+skin	
+sleeping	|sleep
+sloth	|bee|barn|backyard|town|bench|ranch
+snake	|ground|garden|rock|cat|dirt|lizard|grass|river
+snow	|continent|earth|rain|heaven
+soup	|food|drink|liquid|bread|fish|wine|pizza
+space	|ground|run|air|game|sky|floor|rock|weather
+speaker	|musician
+squirrel	|ground|grass|wood|farm|bird|dog|chicken|cat
+staircase	|stairs|stairwell|climbing
+stamps	
+steakhouse	|suburb|buildings
+stick	|ground|bone|cut|wood|tree|nest|mountain
+storage	
+stream	|creek|pool|swamp
+student	
+stuff	|mail|papers|pen
+sugar	|bread|desert|pie
+sunshine	|light|sun|moon|rain
+table	|wood|floor|chair|room|plate|house|paper|desk
+talking	|silence
+telephone	|meeting
+television	
+temple	|church|apartment
+toilet	|shower|bathroom|jar|sky
+town	|city|ranch|store|barn
+trees	
+trunk	|forest
+utensils	|pencils
+vacuum	|dust
+vase	
+voice	|talk
+water	|liquid|can|sea|air|ocean|drink|lake|river
+window	|glass|door|space|room|wall|table|floor|doorway
+wine	|drink|liquid|beer|soup
+wings	|plane
+wood	|tree|paper|ground|table|rock|plate|stick|nest
+yard	|neighborhood|backyard|lawn|apartment|park
